@@ -16,6 +16,6 @@ public class OnboardingActivity extends AppCompatActivity {
     }
 
     public void login(View view) {
-        startActivity(new Intent(OnboardingActivity.this, LoginActivity));
+        startActivity(new Intent(OnboardingActivity.this,));
     }
 }
