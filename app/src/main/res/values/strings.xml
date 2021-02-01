@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bella</string>
+    <string name="bella_icon">bella icon</string>
+    <string name="bella_motto">Food for Everyone</string>
+    <string name="toy_faces">Toy faces</string>
+    <string name="onboard_button">Get Started</string>
+</resources>
